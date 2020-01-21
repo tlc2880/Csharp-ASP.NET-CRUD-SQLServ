@@ -1,0 +1,6 @@
+C:\Users\tomlc\source\repos\asp.netcrud\asp.netcrud\asp.netcrud\bin\asp.netcrud.dll.config
+C:\Users\tomlc\source\repos\asp.netcrud\asp.netcrud\asp.netcrud\bin\asp.netcrud.dll
+C:\Users\tomlc\source\repos\asp.netcrud\asp.netcrud\asp.netcrud\bin\asp.netcrud.pdb
+C:\Users\tomlc\source\repos\asp.netcrud\asp.netcrud\asp.netcrud\obj\Release\asp.netcrud.csprojAssemblyReference.cache
+C:\Users\tomlc\source\repos\asp.netcrud\asp.netcrud\asp.netcrud\obj\Release\asp.netcrud.dll
+C:\Users\tomlc\source\repos\asp.netcrud\asp.netcrud\asp.netcrud\obj\Release\asp.netcrud.pdb
